@@ -49,7 +49,7 @@ Buatlah __sebuah file python__ (*.py*) yang mengandung __sebuah function__ denga
     ```
     
    
-  ### *__#HappyCoding__* :relaxed:
+### *__#HappyCoding__* :relaxed:
 
 *__Soal Ujian ini dibuat oleh:__* 
 #### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
